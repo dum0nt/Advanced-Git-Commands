@@ -1,0 +1,5 @@
+Commit #2 during squash activity
+
+commit #3 during squash activity
+
+commit #4
